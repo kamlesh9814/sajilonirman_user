@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505872402761",
+    "project_id": "sajilonirman-7ae5c",
+    "storage_bucket": "sajilonirman-7ae5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505872402761:android:9b349e1d45544f07fdb298",
+        "android_client_info": {
+          "package_name": "com.sajilonirman.ms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxB946Od_tAcNxmNYiINsEFZGkzTYpFIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
